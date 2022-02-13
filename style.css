@@ -1,0 +1,196 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    margin-bottom: 50px;
+}
+.headBg{
+    background-color: #e5fce5;
+}
+.logo{
+    width: 150px;
+}
+.manuList{
+    margin-left: auto;
+}
+.manuList li a{
+    color: black;
+}
+.singin{
+    background-color: #2ea82e;
+    padding: 2px 8px;
+    border-radius: 30px;
+}
+.singin a{
+    color: white;
+    font-weight: bold;
+}
+.cover-info h2{
+    width: 309px;
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 35px;
+}
+.cover-info p{
+    color: #b9b8b8;
+}
+
+.coverimg img{
+    width: 100%;
+}
+.coverimg{
+    padding-bottom: 40px;
+}
+.getBtn{
+    background-color: #2ea82e;
+    padding: 5px 15px;
+    border-radius: 30px;
+    color: white;
+    border: none;
+    font-weight: 700;
+}
+.getBtn:hover{
+    background-color: black;
+}
+.course-item img{
+    width: 55px;
+}
+.course-item{
+    text-align: center;
+}
+.course-item h5{
+    padding-top: 25px;
+}
+
+.cat1,.cat2,.cat3,.cat4{
+    border-radius: 15px;
+    padding: 10px 20px;
+    
+}
+
+.cat1{
+    background-color: #e5fce5;
+}
+.cat2{
+    background-color: #ffff;
+    box-shadow: 5px 10px 20px hsl(0, 0%, 75%);
+}
+
+.cat3{
+    background-color: #e5fce5;
+}
+
+.cat4{
+    background-color: #e5fce5;
+}
+.course{
+    text-align: center;
+    padding-top: 40px;
+}
+.course h5{
+    padding-top: 15px;
+}
+.course img{
+    width: 250px;
+}
+.course1, .course2 , .course3{
+    padding: 15px;
+    border-radius: 10px;
+
+}
+
+.course1{
+
+    box-shadow: 5px 10px 20px hsl(0, 0%, 75%);
+    
+
+}
+.course2{
+
+    box-shadow: 5px 10px 20px hsl(0, 0%, 75%);
+    
+
+}
+.course3{
+
+    box-shadow: 5px 10px 20px hsl(0, 0%, 75%);
+    
+
+}
+
+.card-footers img{
+    width: 20px;
+}
+
+.card-footers{
+    margin-top: 30px;
+    display: flex;
+
+}
+.calender{
+    align-items: center;
+    justify-content: left;
+    margin-right: 60px;
+}
+.pepole{
+    margin-right: auto;
+}
+.card-footers span{
+    font-size: 13px;
+}
+.testmonialdoc{
+    display: flex;
+    align-items: center;
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+}
+.testmonialdoc nav{
+    font-size: 13px;
+}
+.testmonialdoc img{
+    width: 80px;
+    margin-right: 30px;
+}
+.footer{
+    margin-top: 40px;
+    background-color: #2c2c2c;
+    color: white;
+    padding-top: 40px;
+}
+.footer-items li {
+    list-style: none;
+    
+
+}
+.footer-items li a{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+
+}
+
+.footer-fast-col{
+    margin-left: 20px;
+}
+
+.last-footer{
+    font-size: 13px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+/*---------Login----------*/
+
+.logn{
+    padding-top:30px ;
+    padding-bottom: 5px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    background-color: beige;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    box-shadow: 5px 10px 20px hsl(0, 0%, 75%);
+}
+
